@@ -1,0 +1,27 @@
+
+.list{
+    padding: 23px;
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    
+}
+.list  p{
+    color: rgb(192, 195, 197);
+}
+.inner-content  h3{
+    color: rgb(192, 195, 197);
+}
+.container{
+    text-align: center;
+ 
+}
+button{
+    border-radius: 12px;
+}
+.btn{
+    width: 80px;
+    height: 35px;
+    background-color: aqua;
+    
+}
